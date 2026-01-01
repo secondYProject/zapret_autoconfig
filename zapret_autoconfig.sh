@@ -11,7 +11,7 @@
   TELEGRAM_BOT_TOKEN=""  # вставь токен бота
   TELEGRAM_CHAT_ID=""    # вставь id чата
   MAX_ATTEMPTS=10
-  YOUTUBE_URL="https://www.youtube.com"
+  YOUTUBE_URL="https://www.x.com"
 
   FILTER_TCP_OPTIONS="80 443 80,443"
   FILTER_UDP_OPTIONS="443 50000-65535 50000-50100"
